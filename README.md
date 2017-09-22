@@ -1,2 +1,2 @@
-# ASCII-converter
-I wanted to figure out a program that converted text that was input into ASCII characters
+# K-periodic
+Some classmates and I wanted to test strings to see if they were k-periodic so we came up with this code.
